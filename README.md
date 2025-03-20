@@ -9,7 +9,7 @@ Desenvolvimento da página Home do agregador de podcasts Wavecast utilizando CSS
 
 Para visualizar a página funcionando: 
 
-<a href="https://lucasjdantas.github.io/exercicio-alura-css-avancado-5/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github%20Pages&logoColor=white" target="_blank"></a>
+<a href="https://exercicio-alura-css-avancado-5.vercel.app/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" target="_blank"></a>
 
 <hr>
 
